@@ -9,6 +9,13 @@ body {
     margin: 0 auto;
 }
 
+.header {
+    margin: -2rem 0 3rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
