@@ -1,0 +1,10 @@
+:root {
+    --font-regular: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    --font-featured: Rockwell, 'Rockwell Nova', 'Roboto Slab', 'DejaVu Serif', 'Sitka Small', serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
